@@ -14,6 +14,8 @@ SELECT
   SUM(stroke) AS stroke_count
 FROM dbo.healtcare_data_csv;
 
+
+
 --looking at disparities in gender
 
 SELECT
