@@ -2,7 +2,7 @@
 
 The dataset used in this project is the Stroke Prediction Dataset, which is publicly available on Kaggle. It contains information on over 5,000 patients from different regions of the world, including their age, gender, smoking status, hypertension status, heart disease status, and more.
 
-**Analysis**
+**Analysis:**
 
 Using SQL queries and data visualization techniques, this project aims to identify factors that increase the likelihood of stroke. Some of the questions explored in this analysis include:
 
