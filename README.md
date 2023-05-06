@@ -48,4 +48,5 @@ While there were some variations in stroke incidence rates based on patient loca
 Overall, the analysis highlights the importance of identifying and managing stroke risk factors, such as hypertension and smoking, in order to reduce the incidence of stroke and improve public health.
 
 **Conclusion:**
+
 This project demonstrates the power of SQL for data analysis and highlights the importance of understanding stroke risk factors. With further research and refinement, the findings from this analysis could potentially contribute to the development of more effective stroke prevention and treatment strategies.
