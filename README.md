@@ -1,10 +1,12 @@
 # Analyzing Stroke Risk Factors using SQL
 
 
-Stroke Risk Factors: A SQL Data Analysis Project
+Stroke Risk Factors:
+
 This project analyzes a dataset of stroke patients and their medical history using SQL. The dataset includes information on patient demographics, lifestyle factors, and medical history.
 
-Dataset
+Dataset:
+
 The dataset used in this project is the Stroke Prediction Dataset, which is publicly available on Kaggle here. It contains information on over 5,000 patients from different regions of the world, including their age, gender, smoking status, hypertension status, heart disease status, and more.
 
 Analysis
